@@ -1,0 +1,8 @@
+GetString functions
+
+int bufLen, Span<byte> buf
+string sep, int bufLen, Span<byte> buf
+ConnectorHandle handle, int bufLen, Span<byte> buf
+Func1Handle handle, string arg, int bufLen, Span<byte> buf
+SolutionHandle handle, int i, int bufLen, Span<byte> buf
+ThermoPhaseHandle handle, int show_thermo, double threshold, int bufLen, Span<byte> buf
